@@ -1,0 +1,111 @@
+﻿  Source.cpp
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(128): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(213): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(223): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(232): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(249): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(280): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(297): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(344): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(351): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(172): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<const _Kty,_Ty>::pair<__int64&,__int64&,void,0>(_Other1,_Other2) noexcept"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int,
+              _Other1=__int64 &,
+              _Other2=__int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<const _Kty,_Ty>::pair<__int64&,__int64&,void,0>(_Other1,_Other2) noexcept"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int,
+              _Other1=__int64 &,
+              _Other2=__int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::allocator<_Other>::construct<_Objty,__int64&,__int64&>(_Objty *,__int64 &,__int64 &)"
+          with
+          [
+              _Other=std::_Tree_node<std::pair<const __int64,int>,void *>,
+              _Objty=std::pair<const __int64,int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::allocator<_Other>::construct<_Objty,__int64&,__int64&>(_Objty *,__int64 &,__int64 &)"
+          with
+          [
+              _Other=std::_Tree_node<std::pair<const __int64,int>,void *>,
+              _Objty=std::pair<const __int64,int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::allocator_traits<_Alloc>::construct<_Ty,__int64&,__int64&>(std::allocator<_Other> &,_Objty *,__int64 &,__int64 &)"
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const __int64,int>,void *>>,
+              _Ty=std::pair<const __int64,int>,
+              _Other=std::_Tree_node<std::pair<const __int64,int>,void *>,
+              _Objty=std::pair<const __int64,int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::allocator_traits<_Alloc>::construct<_Ty,__int64&,__int64&>(std::allocator<_Other> &,_Objty *,__int64 &,__int64 &)"
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const __int64,int>,void *>>,
+              _Ty=std::pair<const __int64,int>,
+              _Other=std::_Tree_node<std::pair<const __int64,int>,void *>,
+              _Objty=std::pair<const __int64,int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(889): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::_Wrap_alloc<std::allocator<_Other>>::construct<_Ty,__int64&,__int64&>(_Ty *,__int64 &,__int64 &)"
+          with
+          [
+              _Other=std::_Tree_node<std::pair<const __int64,int>,void *>,
+              _Ty=std::pair<const __int64,int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(887): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::_Wrap_alloc<std::allocator<_Other>>::construct<_Ty,__int64&,__int64&>(_Ty *,__int64 &,__int64 &)"
+          with
+          [
+              _Other=std::_Tree_node<std::pair<const __int64,int>,void *>,
+              _Ty=std::pair<const __int64,int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1076): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::_Tree_node<std::pair<const _Kty,_Ty>,void *> *std::_Tree_comp_alloc<_Traits>::_Buynode<__int64&,__int64&>(__int64 &,__int64 &)"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int,
+              _Traits=std::_Tmap_traits<__int64,int,std::less<__int64>,std::allocator<std::pair<const __int64,int>>,true>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1076): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::_Tree_node<std::pair<const _Kty,_Ty>,void *> *std::_Tree_comp_alloc<_Traits>::_Buynode<__int64&,__int64&>(__int64 &,__int64 &)"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int,
+              _Traits=std::_Tmap_traits<__int64,int,std::less<__int64>,std::allocator<std::pair<const __int64,int>>,true>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(483): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<__int64&,__int64&>(__int64 &,__int64 &)"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int,
+              _Pr=std::less<__int64>,
+              _Alloc=std::allocator<std::pair<const __int64,int>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(483): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<__int64&,__int64&>(__int64 &,__int64 &)"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int,
+              _Pr=std::less<__int64>,
+              _Alloc=std::allocator<std::pair<const __int64,int>>
+          ]
+  c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(138): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::multimap<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::emplace<__int64&,__int64&>(__int64 &,__int64 &)"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int
+          ]
+  c:\users\виталий\desktop\программирование\алгоритмы\mincostmaxflow\проект1\проект1\source.cpp(138): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::multimap<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::emplace<__int64&,__int64&>(__int64 &,__int64 &)"
+          with
+          [
+              _Kty=__int64,
+              _Ty=int
+          ]
+  Проект1.vcxproj -> C:\Users\Виталий\Desktop\Программирование\Алгоритмы\MinCostMaxFlow\Проект1\Debug\Проект1.exe
+  Проект1.vcxproj -> C:\Users\Виталий\Desktop\Программирование\Алгоритмы\MinCostMaxFlow\Проект1\Debug\Проект1.pdb (Full PDB)
